@@ -1,0 +1,5 @@
+model,validation_MAE
+Ridge,6.781630342664358
+Gradient Boosting,6.930859605314345
+Random Forest,7.05177389541558
+Decision Tree,7.152713004868748
