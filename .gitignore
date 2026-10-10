@@ -1,0 +1,15 @@
+/data/
+/private_data/
+.ipynb_checkpoints/
+__pycache__/
+
+*.pyc
+*.xls
+*.xlsx
+
+my_comments*.csv
+vk_comments*.csv
+olist_*_dataset.csv
+
+.env
+.env.*
