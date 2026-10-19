@@ -1,9 +1,15 @@
 /data/
 /private_data/
+
 .ipynb_checkpoints/
 __pycache__/
-
 *.pyc
+
+.venv/
+venv/
+.idea/
+catboost_info/
+
 *.xls
 *.xlsx
 
