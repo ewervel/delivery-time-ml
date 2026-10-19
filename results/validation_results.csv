@@ -1,5 +1,7 @@
-model,validation_MAE
-Ridge,6.781630342664358
-Gradient Boosting,6.930859605314345
-Random Forest,7.05177389541558
-Decision Tree,7.152713004868748
+Model,MAE
+CatBoost,5.626
+Random Forest,5.627
+Gradient Boosting,5.634
+Ridge,5.663
+Decision Tree,5.725
+Median,6.841
